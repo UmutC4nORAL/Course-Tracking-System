@@ -1,0 +1,206 @@
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe.config
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.pdb
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.AnaSayfa.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.duyurular.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.etkinlikler.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Giris.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.hakkinda.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.loadingPage.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.ogrenciDersler.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgrenciSayfa.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenDersler.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenSayfa.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.exe
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.pdb
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Npgsql.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Buffers.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Memory.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Text.Json.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.ValueTuple.dll
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\Npgsql.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Buffers.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Memory.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Text.Json.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\bin\Debug\System.ValueTuple.xml
+C:\Users\Excalibur\Desktop\Engineering Stuff\Projeler\Ödev\Veri Yapilari\Proje\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CopyComplete
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe.config
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.pdb
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Npgsql.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Buffers.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Memory.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Text.Json.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.ValueTuple.dll
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\Npgsql.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Buffers.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Memory.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Text.Json.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\bin\Debug\System.ValueTuple.xml
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.AnaSayfa.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.duyurular.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.etkinlikler.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Giris.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.hakkinda.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.loadingPage.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.ogrenciDersler.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgrenciSayfa.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenDersler.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenSayfa.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Properties.Resources.resources
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CopyComplete
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.exe
+C:\Users\mehme\Desktop\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.pdb
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe.config
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.pdb
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Npgsql.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Buffers.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Memory.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Json.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.ValueTuple.dll
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Npgsql.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Buffers.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Memory.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Json.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.ValueTuple.xml
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.AnaSayfa.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.duyurular.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.etkinlikler.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Giris.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.hakkinda.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.loadingPage.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.ogrenciDersler.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgrenciSayfa.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenDersler.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenSayfa.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Properties.Resources.resources
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.GenerateResource.cache
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_tak.EC2F686E.Up2Date
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.exe
+C:\Users\uoral\Desktop\Notlar\Görsel Programlama\proje\2\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.pdb
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe.config
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.pdb
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Npgsql.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Buffers.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Memory.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Json.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.ValueTuple.dll
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\Npgsql.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Buffers.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Collections.Immutable.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Memory.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Text.Json.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Channels.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\System.ValueTuple.xml
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.AnaSayfa.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.duyurular.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.etkinlikler.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Giris.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.hakkinda.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.loadingPage.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.ogrenciDersler.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgrenciSayfa.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenDersler.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.OgretmenSayfa.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.Properties.Resources.resources
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.GenerateResource.cache
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_tak.EC2F686E.Up2Date
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.exe
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.pdb
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.exe.manifest
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\bin\Debug\ders_takip_sistemi.application
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.exe.manifest
+C:\Users\uoral\Desktop\Notlar\gorselprogramlama\proje\Course-Tracking-System\Course_Tracking_System-master\obj\Debug\ders_takip_sistemi.application

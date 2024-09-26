@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|c:\\users\\uoral\\desktop\\notlar\\gorselprogramlama\\proje\\course-tracking-system\\course_tracking_system-master\\ogretmensayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogretmensayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogretmendersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogretmendersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogrencisayfa .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogrencisayfa .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogrencidersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogrencidersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\etkinlikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:etkinlikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:duyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\veriyapilari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:veriyapilari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogretmendersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogretmendersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogretmensayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogretmensayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogrencisayfa .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23E0992-0F6D-4A6A-8B1C-8A4901C002AC}|ders_takip_sistemi.csproj|solutionrelative:ogrencisayfa .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgretmenSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenSayfa.cs",
+              "RelativeDocumentMoniker": "OgretmenSayfa.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgretmenSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:03:07.322Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgretmenDersler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenDersler.cs",
+              "RelativeDocumentMoniker": "OgretmenDersler.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenDersler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgretmenDersler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:03:02.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciSayfa .cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgrenciSayfa .cs",
+              "RelativeDocumentMoniker": "OgrenciSayfa .cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgrenciSayfa .cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciSayfa .cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ogrenciDersler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogrenciDersler.cs",
+              "RelativeDocumentMoniker": "ogrenciDersler.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\ogrenciDersler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrenciDersler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loadingPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\loadingPage.cs",
+              "RelativeDocumentMoniker": "loadingPage.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\loadingPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "loadingPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hakkinda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\hakkinda.cs",
+              "RelativeDocumentMoniker": "hakkinda.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\hakkinda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hakkinda.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:49.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\Giris.cs",
+              "RelativeDocumentMoniker": "Giris.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "etkinlikler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\etkinlikler.cs",
+              "RelativeDocumentMoniker": "etkinlikler.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\etkinlikler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "etkinlikler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "duyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\duyurular.cs",
+              "RelativeDocumentMoniker": "duyurular.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\duyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "duyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:37.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:02:33.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OgrenciSayfa .cs",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgrenciSayfa .cs",
+              "RelativeDocumentMoniker": "OgrenciSayfa .cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgrenciSayfa .cs",
+              "RelativeToolTip": "OgrenciSayfa .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:59:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OgretmenSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenSayfa.cs",
+              "RelativeDocumentMoniker": "OgretmenSayfa.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenSayfa.cs",
+              "RelativeToolTip": "OgretmenSayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:59:31.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OgretmenDersler.cs",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenDersler.cs",
+              "RelativeDocumentMoniker": "OgretmenDersler.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\OgretmenDersler.cs",
+              "RelativeToolTip": "OgretmenDersler.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:58:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VeriYapilari.cs",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\VeriYapilari.cs",
+              "RelativeDocumentMoniker": "VeriYapilari.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\VeriYapilari.cs",
+              "RelativeToolTip": "VeriYapilari.cs",
+              "ViewState": "AQIAACgCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:55:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\uoral\\Desktop\\Notlar\\gorselprogramlama\\proje\\Course-Tracking-System\\Course_Tracking_System-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAADEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:54:37.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
